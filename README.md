@@ -39,4 +39,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Aboeleneen&show_icons=true&count_private=true" alt="Aboeleneen" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aboeleneen.Aboeleneen&left_color=red&right_color=green" alt="visitors"></p>
