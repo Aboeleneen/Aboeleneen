@@ -4,10 +4,8 @@
 <img align="right" src="https://media.giphy.com/media/Y3GPYKwenR9SbriKvr/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
+<li>🔭 I’m currently working on Cortica which offers integrated and personalized care to children with autism and their families
+<li>🧐 Learning about <strong> backend engineering </strong> ,  <strong>serverless architectures</strong> and a bit of <strong>Machine Learning</strong>.</li>
 <li>📙 Check out my <a href="#">resume</a>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
@@ -40,5 +38,5 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aboeleneen&show_icons=true&count_private=true" alt="Aboeleneen" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
