@@ -5,9 +5,10 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on Cortica which offers integrated and personalized care to children with autism and their families
-<li>🧐 Learning about <strong> backend engineering </strong> ,  <strong>serverless architectures</strong> and a bit of <strong>Machine Learning</strong>.</li>
+<li>🧑‍🎓 graduated from FOE Alexandria University Computer and System Engineering Department <strong>CSED21</strong> </li>
+<li>💡 Learning about <strong> backend engineering </strong> ,  <strong>serverless architectures</strong> and a bit of <strong>Machine Learning</strong>.</li>
 <li>📙 Check out my <a href="#">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🎉 Fun Fact: </li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
