@@ -1,12 +1,7 @@
 <h2>Hey 👋, I'm Mahmoud Aboeleneen</h2>
 <p>I'm currently a software engineer at <strong><a href="https://blink22.com/">Blink22</a></strong> </p>
 
- 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboeleneen/) 
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eng.aboeleneen98@gmail.com)
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Aboeleneen98/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboeleneen/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.aboeleneen98@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Aboeleneen98/)
 
 
 <img align="right" src="https://media.giphy.com/media/Y3GPYKwenR9SbriKvr/giphy.gif" />
