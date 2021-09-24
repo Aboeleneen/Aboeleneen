@@ -17,6 +17,15 @@
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"  />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"  />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"  />
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB"  />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"  />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"  />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="MaterialUI"  />
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="RubyOnRails" />
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GrapgQL" />
+<img src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS " />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Aboeleneen&show_icons=true&count_private=true" alt="Aboeleneen" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboeleneen&show_icons=true&count_private=true" alt="Aboeleneen" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Aboeleneen.Aboeleneen&left_color=red&right_color=green" alt="visitors"></p>
