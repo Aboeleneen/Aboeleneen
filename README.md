@@ -1,5 +1,4 @@
 <h2>Hey 👋, I'm Mahmoud Aboeleneen</h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.procore.com">Procore</a></strong> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboeleneen/) 
 
